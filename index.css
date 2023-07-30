@@ -1,7 +1,24 @@
 h1 {
     color:blueviolet;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
 }
 li, a{
    text-decoration:none;
    font-size:20px;
+   font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+   text-align:left;
+   color:blueviolet;
+}
+img {
+    align-items:center;
+    text-align:justify;
+    padding:5px;
+    margin-left:20%;
+    margin:20px;
+    height:300px;
+    width:300px;
+}
+h3 {
+    color:blueviolet;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
 }
